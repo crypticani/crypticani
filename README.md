@@ -18,3 +18,9 @@
 - 📫 How to reach me: Email me @ aniket.kumar@hotmail.com .
 
 - ⚡ Fun fact: I love ancient Indian Culture.
+
+---
+
+<p align='left'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=crypticani.visitor-badge">
+ <p/>

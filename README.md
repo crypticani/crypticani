@@ -21,6 +21,7 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=true)
 <p align='left'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=crypticani.visitor-badge">
  <p/>

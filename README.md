@@ -24,8 +24,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false)
 ## How to reach me via social media
 <p>
-<a href="https://twitter.com/cryptic_ani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://t.me/cryptic_ani"><img src="https://img.shields.io/badge/-Telegram-informational?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a> 
+<a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 
+<a href="https://twitter.com/cryptic_ani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> 
+<a href="https://www.quora.com/profile/Cryptic-Ani"><img src="https://img.shields.io/badge/-Quora-critical?&style=for-the-badge&logo=quora&logoColor=white" height=30></a>   
+<a href="https://t.me/cryptic_ani"><img src="https://img.shields.io/badge/-Telegram-informational?&style=for-the-badge&logo=telegram&logoColor=white" height=30></a> 
 
 </p>
 

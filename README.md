@@ -5,6 +5,10 @@
 
 <!--
 **crypticani/crypticani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![GitHub repo size](https://img.shields.io/github/repo-size/crypticani/REPOSITORY?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/crypticani/REPOSITORY?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/crypticani/REPOSITORY?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/crypticani/REPOSITORY?color=red&style=plastic)
 
 
 - 🔭 I’m currently working on fedora project (Contributor @ Fedora Community Outreach Task Force).

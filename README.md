@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-    It's me, Aniket
+   # It's me, Aniket!
+   Thanks for visiting my Github profile.
 
 <!--
 **crypticani/crypticani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

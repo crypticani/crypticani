@@ -15,7 +15,7 @@
 
 - 💬 Ask me about Programming (C and Python), Linux (Debian and fedora based distros) and Windows issues, Data Structures, DBMS, Web Development.
 
-- 📫 How to reach me: Email me @ aniket.kumar@hotmail.com .
+- 📫 How to reach me: Email me: crypticani@protonmail.com .
 
 - ⚡ Fun fact: I love ancient Indian Culture.
 

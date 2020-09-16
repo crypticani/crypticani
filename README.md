@@ -7,7 +7,7 @@
 **crypticani/crypticani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on fedora project (Contributor @ Fedora Community Outreach Task Force).
+- 🔭 I’m currently working on UTSAV and linkt.
 
 - 🌱 I’m currently learning Data Science with Python.
 

@@ -21,7 +21,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=compact&theme=radical" width="450" height="350"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&layout=compact&theme=radical" width="450" height="350" ></a>
 ## How to reach me via social media
 <p>
 <a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 

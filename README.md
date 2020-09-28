@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on a Linux Project in C language.
 
-- 💬 Ask me about Programming (C and Python), Linux (Debian and fedora based distros) and Windows issues, Data Structures, DBMS, Web Development.
+- 💬 Ask me about Programming (C, Python, C# and Java), Linux (Debian and fedora based distros) and Windows issues, Data Structures, DBMS, Web Development.
 
 - 📫 How to reach me: Email me: crypticani@protonmail.com .
 

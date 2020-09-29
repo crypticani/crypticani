@@ -22,7 +22,7 @@
 ---
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=compact&theme=dracula&count_private=true" width="450" height="350"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&layout=default&theme=dracula&langs_count=10&hide=Ruby" width="350" height="450" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&exclude_repo=py&layout=default&theme=dracula&langs_count=10&hide=Ruby" width="350" height="450" ></a>
 ## How to reach me via social media
 <p>
 <a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 

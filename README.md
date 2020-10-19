@@ -11,18 +11,16 @@
 
 - 🌱 I’m currently learning Data Science with Python.
 
-- 👯 I’m looking to collaborate on a Linux Project in C language.
+- 👯 I’m looking to collaborate on a Linux Project in Python3.
 
 - 💬 Ask me about Programming (C, Python, C# and Java), Linux (Debian and fedora based distros) and Windows issues, Data Structures, DBMS, Web Development.
 
 - 📫 How to reach me: Email me: crypticani@protonmail.com .
 
-- ⚡ Fun fact: I love ancient Indian Culture.
-
 ---
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=compact&theme=dracula&count_private=true" width="450" height="350"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&exclude_repo=Data_Structures,Github-Slideshow&layout=default&theme=dracula&langs_count=7&hide=Ruby" width="350" height="450" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a><br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&exclude_repo=Data_Structures,Car-Racing&layout=compact&theme=dracula&langs_count=6&hide=Jupyter Notebook" width="500" height="400" ></a>
 ## How to reach me via social media
 <p>
 <a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 

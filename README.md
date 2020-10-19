@@ -19,7 +19,7 @@
 
 ---
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a><br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&exclude_repo=Data_Structures,Car-Racing&layout=compact&theme=dracula&langs_count=6&hide=Jupyter Notebook" width="500" height="400" ></a>
 ## How to reach me via social media
 <p>

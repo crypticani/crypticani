@@ -6,7 +6,7 @@
 <!--
 **crypticani/crypticani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently improving my skills in Django and VueJS.
+- 🌱 I’m currently improving my skills in Linux and Python.
 
 - 💬 Ask me about Programming (C, Python, C# and Java), Linux (Debian and fedora based distros) and Windows issues, Data Structures, DBMS, Web Development.
 
@@ -15,7 +15,7 @@
 ---
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&exclude_repo=Data_Structures,Car-Racing&layout=compact&theme=dracula&langs_count=6&hide=Jupyter Notebook, SCSS, CSS" width="500" height="400" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypticani&exclude_repo=Data_Structures,Car-Racing&layout=compact&theme=dracula&langs_count=6&hide=SCSS, CSS" width="500" height="400" ></a>
 ## How to reach me via social media
 <p>
 <a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> 

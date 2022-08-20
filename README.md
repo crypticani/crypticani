@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,18 @@ Sunday       41 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Python                   1 min               █████████████████████████   100.0% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+VS Code                  1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Kochartech               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+PythonFullStack-Kochiva  1 min               █████████████████████████   100.0% 
+Kochartech               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Linux                    1 min               █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +94,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 17:47:47 UTC
+ Last Updated on 20/08/2022 18:49:16 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

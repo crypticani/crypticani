@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -25,7 +25,7 @@
 
 > 🏆 179 Contributions in the Year 2022
  > 
-> 📦 1.3 MB Used in GitHub's Storage 
+> 📦 1.4 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -86,9 +86,9 @@ Unknown OS               59 mins             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ███████████░░░░░░░░░░░░░░   44.19% 
+Python                   18 repos            ██████████░░░░░░░░░░░░░░░   41.86% 
 C                        8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
 Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
 Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
@@ -100,7 +100,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 18:56:28 UTC
+ Last Updated on 03/10/2022 19:02:05 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

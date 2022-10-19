@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,20 +62,20 @@ Sunday       45 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   13 hrs 36 mins      ███████████░░░░░░░░░░░░░░   45.48% 
-HTML                     5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.26% 
-JavaScript               5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Markdown                 3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.01% 
-YAML                     59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31%
+Python                   13 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.02% 
+Markdown                 5 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+JavaScript               3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
+HTML                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
 
 🔥 Editors: 
-VS Code                  29 hrs 54 mins      █████████████████████████   100.0%
+VS Code                  28 hrs 14 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LeapOS_admin             29 hrs 54 mins      █████████████████████████   100.0%
+LeapOS_admin             28 hrs 14 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    29 hrs 54 mins      █████████████████████████   100.0%
+Linux                    28 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +96,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 19:06:40 UTC
+ Last Updated on 19/10/2022 19:09:42 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

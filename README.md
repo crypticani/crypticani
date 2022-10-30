@@ -62,20 +62,16 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 6 mins        ███████████████░░░░░░░░░░   60.49% 
-JavaScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-Python                   30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LeapOS_admin             3 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 29 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -96,7 +92,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/10/2022 18:52:46 UTC
+ Last Updated on 30/10/2022 18:51:42 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

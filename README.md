@@ -17,9 +17,9 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,16 +62,20 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   47.37% 
+Python                   2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.4% 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
+CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.49% 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 1 min         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LeapOS_admin             6 hrs 1 min         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +96,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 18:52:49 UTC
+ Last Updated on 04/11/2022 18:50:51 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

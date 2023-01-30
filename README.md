@@ -17,9 +17,9 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,7 +96,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 06:03:41 UTC
+ Last Updated on 30/01/2023 18:41:28 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently improving my skills in Linux and Python.
 
-- 💬 Ask me about Programming (C, Python, C# and Java), Linux (Debian and fedora based distros) and Windows issues, Data Structures, DBMS, Web Development.
+- 💬 Ask me about Programming (C/C++, Python, and Java), Linux (Debian and fedora based distros), DevOps, DBMS, Web Development.
 
 - 📫 How to reach me: Email me: crypticani@protonmail.com .
 
 ---
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true" width="500" height="350"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2047%20mins-blue)
@@ -43,12 +43,6 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
-
 
  Last Updated on 09/11/2022 18:50:39 UTC
 <!--END_SECTION:waka-->

@@ -17,40 +17,6 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 13 Contributions in the Year 2023
- > 
-> 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 52 Public Repositories 
- > 
-> 🔑 11 Private Repositories  
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   19 repos            ██████████░░░░░░░░░░░░░░░   43.18% 
-C                        8 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
-
-
- Last Updated on 30/01/2023 05:31:43 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

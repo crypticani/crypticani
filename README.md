@@ -17,9 +17,9 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 **🐱 My GitHub Data** 
 
@@ -62,20 +62,21 @@ Sunday       41 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   7 hrs 38 mins       ███████████████░░░░░░░░░░   60.66% 
-HTML                     3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.51% 
-CSS                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Git Config               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
+Python                   6 hrs 16 mins       ██████████████░░░░░░░░░░░   58.97% 
+HTML                     3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.77% 
+CSS                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
 
 🔥 Editors: 
-VS Code                  12 hrs 36 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 39 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-leap-os-admin            12 hrs 36 mins      █████████████████████████   100.0%
+leap-os-admin            10 hrs 34 mins      ████████████████████████░   99.33% 
+nginx-unit-configurations4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67%
 
 💻 Operating System: 
-Linux                    12 hrs 36 mins      █████████████████████████   100.0%
+Linux                    10 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +97,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/crypticani/crypticani/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 18:41:28 UTC
+ Last Updated on 31/01/2023 18:41:19 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

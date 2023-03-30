@@ -17,9 +17,9 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,22 +60,23 @@ Sunday                   296 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-Markdown                 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Bash                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Docker                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Python                   3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+YAML                     2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Markdown                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Bash                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  13 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-knowmax-api-collection   6 hrs 26 mins       ████████████████░░░░░░░░░   64.15 % 
-devops-world             2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-knowmax-client-portal    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+knowmax-api-collection   6 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.88 % 
+prometheus-api           3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+devops-world             2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+knowmax-client-portal    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 💻 Operating System: 
-Linux                    10 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    13 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -95,7 +96,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2023 18:41:26 UTC
+ Last Updated on 30/03/2023 18:34:07 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -60,18 +60,16 @@ Sunday                   296 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████░░░░░░░░   66.84 % 
-YAML                     1 min               ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Python                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-prometheus-api           3 mins              █████████████████░░░░░░░░   66.84 % 
-keycloak-containers      1 min               ████████░░░░░░░░░░░░░░░░░   33.16 % 
+prometheus-api           3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 mins              █████████████████████████   100.00 % 
+Linux                    3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2023 18:39:39 UTC
+ Last Updated on 07/04/2023 18:38:30 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

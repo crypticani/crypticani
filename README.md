@@ -19,7 +19,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-509%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,7 +60,7 @@ Sunday                   296 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Other                    1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   31.12 % 
 YAML                     1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 TypeScript               54 mins             █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
@@ -96,7 +96,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2023 18:39:12 UTC
+ Last Updated on 06/05/2023 18:38:31 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

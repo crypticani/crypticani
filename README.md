@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -60,20 +60,20 @@ Sunday                   279 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 hrs               ███████████████░░░░░░░░░░   58.02 % 
-YAML                     2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.39 % 
-Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 5 hrs 31 mins       █████████████░░░░░░░░░░░░   52.67 % 
+YAML                     2 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Other                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devops-world             8 hrs 37 mins       █████████████████████████   100.00 % 
+devops-world             10 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2023 18:39:16 UTC
+ Last Updated on 13/05/2023 18:38:57 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

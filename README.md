@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -60,21 +60,20 @@ Sunday                   273 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       ███████████████░░░░░░░░░░   61.64 % 
-Bash                     1 hr                ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Nginx configuration file 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Bash                     1 hr 54 mins        ███████████░░░░░░░░░░░░░░   45.75 % 
+Markdown                 1 hr 51 mins        ███████████░░░░░░░░░░░░░░   44.84 % 
+Nginx configuration file 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devops-world             3 hrs 51 mins       ████████████████████████░   96.92 % 
-keycloak-18.0.2          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+devops-world             4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -94,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2023 18:40:31 UTC
+ Last Updated on 08/06/2023 18:39:05 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

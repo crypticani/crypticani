@@ -17,8 +17,6 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -33,45 +31,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                692 commits         █████████░░░░░░░░░░░░░░░░   36.46 % 
-🌆 Daytime                525 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌃 Evening                677 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   328 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Wednesday                322 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Thursday                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Saturday                 203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Sunday                   272 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -89,7 +48,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:40:39 UTC
+ Last Updated on 06/12/2023 18:41:14 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

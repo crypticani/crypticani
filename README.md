@@ -25,8 +25,6 @@
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2023
- > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -89,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2023 18:40:40 UTC
+ Last Updated on 21/12/2023 18:38:45 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

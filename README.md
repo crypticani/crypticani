@@ -19,11 +19,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,7 +89,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 18:46:19 UTC
+ Last Updated on 11/12/2024 18:46:33 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

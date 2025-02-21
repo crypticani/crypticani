@@ -25,8 +25,6 @@
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -89,7 +87,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:43:05 UTC
+ Last Updated on 21/02/2025 18:42:32 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

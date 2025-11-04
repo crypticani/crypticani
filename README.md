@@ -17,7 +17,9 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2043%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,6 +33,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                767 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌆 Daytime                584 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+🌃 Evening                795 commits         █████████░░░░░░░░░░░░░░░░   36.98 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   396 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Tuesday                  272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Wednesday                370 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Thursday                 327 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Saturday                 209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   308 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +89,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:44:41 UTC
+ Last Updated on 04/11/2025 18:48:42 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

@@ -17,13 +17,15 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
+> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -31,6 +33,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                769 commits         █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌆 Daytime                593 commits         ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+🌃 Evening                798 commits         █████████░░░░░░░░░░░░░░░░   36.88 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   397 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Tuesday                  275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                372 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Thursday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Friday                   272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +89,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:44:54 UTC
+ Last Updated on 17/11/2025 18:48:57 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

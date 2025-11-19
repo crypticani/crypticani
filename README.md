@@ -14,6 +14,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
 
 <!--START_SECTION:waka-->

@@ -16,7 +16,78 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true"></a>
+<br>
+
+<!-- <h2 align="left" id="macropower-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+-->
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=crypticani&theme=dracula&hide_border=false" alt="crypticani" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img src="https://github-readme-stats.vercel.app/api?username=crypticani&show_icons=true&hide_border=false&layout=default&theme=dracula&count_private=true">
+    </a>
+  </div>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2043%20mins-blue)

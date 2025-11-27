@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="left">Favorite Tech</h2>
+<h2 align="center">⚡ Favorite Tech ⚡</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -84,7 +84,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>

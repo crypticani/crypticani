@@ -99,6 +99,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -113,6 +115,45 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                775 commits         █████████░░░░░░░░░░░░░░░░   35.66 % 
+🌆 Daytime                594 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌃 Evening                798 commits         █████████░░░░░░░░░░░░░░░░   36.72 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   397 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Tuesday                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Wednesday                374 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Thursday                 332 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Friday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Sunday                   311 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -130,7 +171,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:49:17 UTC
+ Last Updated on 04/01/2026 18:49:47 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

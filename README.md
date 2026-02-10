@@ -89,9 +89,9 @@
 <br>
 <p align=center>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -132,16 +132,21 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 28 mins             ████████████████████░░░░░   79.90 % 
+Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+linkedin-scrapper        20 mins             ██████████████░░░░░░░░░░░   56.68 % 
+crypticani               15 mins             ███████████░░░░░░░░░░░░░░   43.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +166,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2026 19:00:41 UTC
+ Last Updated on 10/02/2026 19:38:14 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

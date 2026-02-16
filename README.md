@@ -132,21 +132,16 @@ Sunday                   316 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 28 mins             ████████████████████░░░░░   79.90 % 
-Other                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-linkedin-scrapper        20 mins             ██████████████░░░░░░░░░░░   56.68 % 
-crypticani               15 mins             ███████████░░░░░░░░░░░░░░   43.32 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -166,7 +161,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 19:00:47 UTC
+ Last Updated on 16/02/2026 19:08:11 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

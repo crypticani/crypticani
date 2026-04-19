@@ -89,69 +89,30 @@
 <br>
 <p align=center>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2026
+> 🏆 91 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 54 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                795 commits         █████████░░░░░░░░░░░░░░░░   35.13 % 
-🌆 Daytime                602 commits         ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-🌃 Evening                860 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Tuesday                  277 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Wednesday                390 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Thursday                 342 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Friday                   276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Saturday                 250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Sunday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   16 repos            █████████░░░░░░░░░░░░░░░░   35.56 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 
 
@@ -161,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 19:13:33 UTC
+ Last Updated on 19/04/2026 19:13:04 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

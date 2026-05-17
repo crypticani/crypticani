@@ -89,15 +89,13 @@
 <br>
 <p align=center>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2050%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2026
+> 🏆 133 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -105,45 +103,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                799 commits         █████████░░░░░░░░░░░░░░░░   35.14 % 
-🌆 Daytime                590 commits         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-🌃 Evening                879 commits         ██████████░░░░░░░░░░░░░░░   38.65 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Tuesday                  269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Thursday                 349 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Friday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Saturday                 265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Sunday                   329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -161,7 +120,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 19:38:26 UTC
+ Last Updated on 17/05/2026 19:43:54 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

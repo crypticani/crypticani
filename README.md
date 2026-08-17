@@ -148,9 +148,9 @@
 <br>
 <p align="center">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -193,22 +193,46 @@ Sunday                   602 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 11 mins       ██████████████░░░░░░░░░░░   55.12 % 
+Other                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              3 hrs 24 mins       █████████████████████░░░░   85.71 % 
+VS Code                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+autonomous-infra-labs    3 hrs 52 mins       ████████████████████████░   97.73 % 
+crypticani               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 hrs 30 mins (88.55%)
+
+✍️ 1,706 lines written by AI, 1 lines written by hand (99.94% AI-written)
+
+🔤 1,422,964 Input Tokens, 155,739 Output Tokens
+
+💵 $19.01 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 48 AI Prompts
+
+Opus                     1,145 lines         █████████████████░░░░░░░░   66.69 % 
+Sonnet                   572 lines           ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 2,699 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -224,7 +248,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:53:58 UTC
+ Last Updated on 17/08/2026 19:07:38 UTC
 <!--END_SECTION:waka-->
 </p>
 

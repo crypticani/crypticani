@@ -7,13 +7,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=crypticani&style=flat&color=blue&label=Profile%20Views)
 
-- I’m a DevOps Engineer focused on Linux, containers, cloud infrastructure, CI/CD, and observability.
+- I’m a DevOps Engineer who builds the tools I wish existed — cloud cost intelligence ([torvix](https://github.com/crypticani/torvix)), status/monitoring systems ([uptime-lens](https://github.com/crypticani/uptime-lens)), and open, PR-driven handbooks for DevOps and AppSec ([the-devops-handbook](https://github.com/crypticani/the-devops-handbook), [the-vapt-handbook](https://github.com/crypticani/the-vapt-handbook)).
 
-- I build reliable, cost-aware environments and monitoring workflows that make systems easier to operate and recover.
+- 🌱 Currently building self-healing infra and a RAG-based ops copilot in [autonomous-infra-labs](https://github.com/crypticani/autonomous-infra-labs).
 
 - Ask me about Linux (Debian, Red Hat, and Arch based distros), DevOps, cloud, Python, JavaScript, React, and Angular.
 
-- Reach me at crypticani@protonmail.com.
+- 📝 I write at [blog.crypticani.dev](https://blog.crypticani.dev) · Reach me at crypticani@protonmail.com.
 
 ---
 
@@ -287,6 +287,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 ## How to reach me via social media
 <p>
+<a href="https://blog.crypticani.dev"><img src="https://img.shields.io/badge/-Hashnode-2962FF?&style=for-the-badge&logo=hashnode&logoColor=white" height="30"></a>
 <a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
 <a href="https://twitter.com/crypticani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" height="30"></a>
 <a href="https://www.quora.com/profile/Cryptic-Ani"><img src="https://img.shields.io/badge/-Quora-critical?&style=for-the-badge&logo=quora&logoColor=white" height="30"></a>

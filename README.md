@@ -1,54 +1,88 @@
-### Hi there
-
-# It's me, Aniket
-
 <!--
 **crypticani/crypticani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=crypticani&style=flat&color=blue&label=Profile%20Views)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d79921,100:fe8019&height=200&section=header&text=Hi%20there,%20I'm%20Aniket&fontSize=48&fontColor=ebdbb2&fontAlignY=38&animation=fadeIn" alt="header" />
 
-- I’m a DevOps Engineer who builds the tools I wish existed — cloud cost intelligence ([torvix](https://github.com/crypticani/torvix)), status/monitoring systems ([uptime-lens](https://github.com/crypticani/uptime-lens)), and open, PR-driven handbooks for DevOps and AppSec ([the-devops-handbook](https://github.com/crypticani/the-devops-handbook), [the-vapt-handbook](https://github.com/crypticani/the-vapt-handbook)).
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FE8019&center=true&vCenter=true&width=650&lines=Senior+Developer+%26+Cloud+Infrastructure+Engineer;Building+torvix+-+FinOps+for+the+cloud;Writing+open+DevOps+%26+AppSec+handbooks;Exploring+AI-native+DevOps" alt="typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crypticani&style=flat&color=fe8019&label=Profile%20Views" alt="Profile Views" />
+</p>
+
+- I’m a Senior Developer and Cloud Infrastructure Engineer who builds the tools I wish existed — cloud cost intelligence ([torvix](https://github.com/crypticani/torvix)), status/monitoring systems ([uptime-lens](https://github.com/crypticani/uptime-lens)), and open, PR-driven handbooks for DevOps and AppSec ([the-devops-handbook](https://github.com/crypticani/the-devops-handbook), [the-vapt-handbook](https://github.com/crypticani/the-vapt-handbook)).
 
 - 🌱 Currently building self-healing infra and a RAG-based ops copilot in [autonomous-infra-labs](https://github.com/crypticani/autonomous-infra-labs).
 
 - Ask me about Linux (Debian, Red Hat, and Arch based distros), DevOps, cloud, Python, JavaScript, React, and Angular.
 
-- 📝 I write at [blog.crypticani.dev](https://blog.crypticani.dev) · Reach me at crypticani@protonmail.com.
+- 🌐 Full portfolio, resume, and case studies at [crypticani.dev](https://crypticani.dev) · 📝 I write at [blog.crypticani.dev](https://blog.crypticani.dev) · Reach me at crypticani@protonmail.com.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 
-<table>
+<br>
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/crypticani/torvix"><b>torvix</b></a>
       <br>Open-source FinOps platform — cloud cost anomaly detection, waste finding, and forecasting across providers.
-      <br><img src="https://img.shields.io/github/stars/crypticani/torvix?style=flat&color=blue" alt="stars">
+      <br><img src="https://img.shields.io/github/stars/crypticani/torvix?style=flat&labelColor=3c3836&color=fe8019" alt="stars">
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/crypticani/the-devops-handbook"><b>the-devops-handbook</b></a>
       <br>A structured, hands-on learning system for becoming a job-ready DevOps engineer — modules, labs, AWS/Azure coverage.
-      <br><img src="https://img.shields.io/github/stars/crypticani/the-devops-handbook?style=flat&color=blue" alt="stars">
+      <br><img src="https://img.shields.io/github/stars/crypticani/the-devops-handbook?style=flat&labelColor=3c3836&color=fe8019" alt="stars">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/crypticani/autonomous-infra-labs"><b>autonomous-infra-labs</b></a>
       <br>AI-native DevOps experiments — self-healing infra, a RAG-based ops copilot, and AI-assisted security triage on a standard Docker/K8s/Jenkins/Prometheus stack.
-      <br><img src="https://img.shields.io/github/stars/crypticani/autonomous-infra-labs?style=flat&color=blue" alt="stars">
+      <br><img src="https://img.shields.io/github/stars/crypticani/autonomous-infra-labs?style=flat&labelColor=3c3836&color=fe8019" alt="stars">
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/crypticani/uptime-lens"><b>uptime-lens</b></a>
       <br>Free-to-host static status page and monitoring system with Telegram alerts, built on GitHub Actions.
-      <br><img src="https://img.shields.io/github/stars/crypticani/uptime-lens?style=flat&color=blue" alt="stars">
+      <br><img src="https://img.shields.io/github/stars/crypticani/uptime-lens?style=flat&labelColor=3c3836&color=fe8019" alt="stars">
     </td>
   </tr>
 </table>
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=crypticani&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="center">📈 Impact 📈</h2>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150"><b>4+ yrs</b><br><sub>Production DevOps</sub></td>
+    <td align="center" width="150"><b>20+</b><br><sub>Services on Kubernetes</sub></td>
+    <td align="center" width="150"><b>−25%</b><br><sub>Cloud spend cut</sub></td>
+    <td align="center" width="150"><b>&lt;30 min</b><br><sub>Disaster-recovery RTO</sub></td>
+    <td align="center" width="150"><b>99.9%</b><br><sub>SLA across 15+ apps</sub></td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🎓 Certifications 🎓</h2>
+
+<br>
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E58B96E195BB05FB979AE79B82FD8C3FCC52498BFB6954F2079D0A4C9BC39560"><img src="https://img.shields.io/badge/Oracle-OCI%202025%20Certified%20Architect%20Associate-810f0f?style=flat&logo=oracle&logoColor=white" alt="Oracle OCI Certified Architect Associate"></a>
+  <a href="https://www.skills.google/public_profiles/8f5c39be-dc33-4dcf-9222-93a12d66603f"><img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Architecture-4285f4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud Architecture"></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XKHXNF4UDCEC"><img src="https://img.shields.io/badge/Coursera-Google%20IT%20Automation%20with%20Python-2a73cc?style=flat&logo=coursera&logoColor=white" alt="Google IT Automation with Python"></a>
+  <br>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/E3TXTAKY7L33"><img src="https://img.shields.io/badge/Coursera-Foundations%20of%20Project%20Management-2a73cc?style=flat&logo=coursera&logoColor=white" alt="Foundations of Project Management"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/E5UEZVFGNJLC"><img src="https://img.shields.io/badge/Coursera-Python%20for%20Data%20Science%2C%20AI%20%26%20Development-2a73cc?style=flat&logo=coursera&logoColor=white" alt="Python for Data Science, AI & Development"></a>
+  <a href="https://app.cybrary.it/courses/api/certificate/CC-0ba8e1bf-7007-486c-bd2b-40533d96e8f1/view"><img src="https://img.shields.io/badge/Cybrary-Penetration%20Testing%20%26%20Ethical%20Hacking-0d0d0e?style=flat&logo=cybrary&logoColor=white" alt="Penetration Testing and Ethical Hacking"></a>
+</p>
 
 <br>
 
@@ -145,10 +179,6 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
@@ -159,6 +189,24 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" />
+      <br>Helm
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
     </td>
   </tr>
 </table>
@@ -173,8 +221,13 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crypticani&theme=gruvbox" alt="Aniket's repositories by language" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crypticani&theme=gruvbox" alt="Aniket's commits by language" />
 </p>
+<br>
 <p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/crypticani/crypticani/master/assets/bar_graph.png" alt="Lines of code chart" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crypticani/crypticani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crypticani/crypticani/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/crypticani/crypticani/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 <br>
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
@@ -287,11 +340,13 @@ Go                       1 repo              █░░░░░░░░░░�
 
 ## How to reach me via social media
 <p>
-<a href="https://blog.crypticani.dev"><img src="https://img.shields.io/badge/-Hashnode-2962FF?&style=for-the-badge&logo=hashnode&logoColor=white" height="30"></a>
-<a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-<a href="https://twitter.com/crypticani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" height="30"></a>
-<a href="https://www.quora.com/profile/Cryptic-Ani"><img src="https://img.shields.io/badge/-Quora-critical?&style=for-the-badge&logo=quora&logoColor=white" height="30"></a>
-<a href="https://t.me/crypticani"><img src="https://img.shields.io/badge/-Telegram-informational?&style=for-the-badge&logo=telegram&logoColor=white" height="30"></a>
-<a href="https://discord.com/users/crypticani#9400"><img src="https://img.shields.io/badge/-Discord-informational?&style=for-the-badge&logo=discord&logoColor=white" height="30"></a>
+<a href="https://blog.crypticani.dev"><img src="https://img.shields.io/badge/-Hashnode-2962FF?&style=flat&logo=hashnode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/crypticani/"><img src="https://img.shields.io/badge/-LinkedIn-blue?&style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/crypticani"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=x&logoColor=white"></a>
+<a href="https://www.quora.com/profile/Cryptic-Ani"><img src="https://img.shields.io/badge/-Quora-critical?&style=flat&logo=quora&logoColor=white"></a>
+<a href="https://t.me/crypticani"><img src="https://img.shields.io/badge/-Telegram-informational?&style=flat&logo=telegram&logoColor=white"></a>
+<a href="https://discord.com/users/crypticani#9400"><img src="https://img.shields.io/badge/-Discord-informational?&style=flat&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/@knowledgewit"><img src="https://img.shields.io/badge/-YouTube-red?&style=flat&logo=youtube&logoColor=white"></a>
+<a href="https://www.instagram.com/_crypticani/"><img src="https://img.shields.io/badge/-Instagram-E4405F?&style=flat&logo=instagram&logoColor=white"></a>
 
 </p>

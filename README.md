@@ -5,6 +5,8 @@
 <!--
 **crypticani/crypticani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=crypticani&style=flat&color=blue&label=Profile%20Views)
+
 - I’m a DevOps Engineer focused on Linux, containers, cloud infrastructure, CI/CD, and observability.
 
 - I build reliable, cost-aware environments and monitoring workflows that make systems easier to operate and recover.
@@ -14,6 +16,37 @@
 - Reach me at crypticani@protonmail.com.
 
 ---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/crypticani/torvix"><b>torvix</b></a>
+      <br>Open-source FinOps platform — cloud cost anomaly detection, waste finding, and forecasting across providers.
+      <br><img src="https://img.shields.io/github/stars/crypticani/torvix?style=flat&color=blue" alt="stars">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/crypticani/the-devops-handbook"><b>the-devops-handbook</b></a>
+      <br>A structured, hands-on learning system for becoming a job-ready DevOps engineer — modules, labs, AWS/Azure coverage.
+      <br><img src="https://img.shields.io/github/stars/crypticani/the-devops-handbook?style=flat&color=blue" alt="stars">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/crypticani/autonomous-infra-labs"><b>autonomous-infra-labs</b></a>
+      <br>AI-native DevOps experiments — self-healing infra, a RAG-based ops copilot, and AI-assisted security triage on a standard Docker/K8s/Jenkins/Prometheus stack.
+      <br><img src="https://img.shields.io/github/stars/crypticani/autonomous-infra-labs?style=flat&color=blue" alt="stars">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/crypticani/uptime-lens"><b>uptime-lens</b></a>
+      <br>Free-to-host static status page and monitoring system with Telegram alerts, built on GitHub Actions.
+      <br><img src="https://img.shields.io/github/stars/crypticani/uptime-lens?style=flat&color=blue" alt="stars">
+    </td>
+  </tr>
+</table>
+
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=crypticani&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 

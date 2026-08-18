@@ -233,18 +233,17 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2052%20mins-blue?style=flat)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2056%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 427 Contributions in the Year 2026
+> 🏆 438 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -255,21 +254,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1642 commits        ██████████░░░░░░░░░░░░░░░   40.01 % 
-🌆 Daytime                824 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-🌃 Evening                1617 commits        ██████████░░░░░░░░░░░░░░░   39.40 % 
+🌞 Morning                1651 commits        ██████████░░░░░░░░░░░░░░░   40.12 % 
+🌆 Daytime                824 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+🌃 Evening                1619 commits        ██████████░░░░░░░░░░░░░░░   39.34 % 
 🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   726 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Tuesday                  483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Wednesday                736 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Thursday                 659 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Saturday                 434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Sunday                   602 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Monday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Tuesday                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Wednesday                736 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Thursday                 659 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Saturday                 434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Sunday                   602 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
 ```
 
 
@@ -279,46 +278,46 @@ Sunday                   602 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 11 mins       ██████████████░░░░░░░░░░░   55.12 % 
-Other                    1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Markdown                 35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
+Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+Other                    1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 24 mins       █████████████████████░░░░   85.71 % 
-VS Code                  34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Claude Code              5 hrs 28 mins       ██████████████████████░░░   88.18 % 
+VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 
 🐱‍💻 Projects: 
-autonomous-infra-labs    3 hrs 52 mins       ████████████████████████░   97.73 % 
-crypticani               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+autonomous-infra-labs    6 hrs 7 mins        █████████████████████████   98.55 % 
+crypticani               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Linux                    3 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (88.55%)
+⏱ AI Coding Time: 5 hrs 45 mins (92.69%)
 
-✍️ 1,706 lines written by AI, 1 lines written by hand (99.94% AI-written)
+✍️ 2,655 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 1,422,964 Input Tokens, 155,739 Output Tokens
+🔤 1,949,912 Input Tokens, 254,847 Output Tokens
 
-💵 $19.01 Estimated AI Cost This Week
+💵 $26.19 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 48 AI Prompts
+🧠 9 AI Sessions, 72 AI Prompts
 
-Opus                     1,145 lines         █████████████████░░░░░░░░   66.69 % 
-Sonnet                   572 lines           ████████░░░░░░░░░░░░░░░░░   33.31 % 
+Opus                     1,583 lines         ███████████████░░░░░░░░░░   58.78 % 
+Sonnet                   1,110 lines         ██████████░░░░░░░░░░░░░░░   41.22 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,699 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 2,294 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -334,7 +333,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:07:38 UTC
+ Last Updated on 18/08/2026 19:06:48 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

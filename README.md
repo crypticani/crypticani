@@ -231,9 +231,9 @@
 </p>
 <br>
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
-<br>
-<p align="center">
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%2056%20mins-blue?style=flat)
@@ -336,7 +336,6 @@ Go                       1 repo              █░░░░░░░░░░�
 
  Last Updated on 17/08/2026 19:07:38 UTC
 <!--END_SECTION:waka-->
-</p>
 
 ## How to reach me via social media
 <p>

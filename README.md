@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -251,75 +251,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1651 commits        ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌆 Daytime                824 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-🌃 Evening                1619 commits        ██████████░░░░░░░░░░░░░░░   39.34 % 
-🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Tuesday                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Wednesday                736 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Thursday                 659 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Saturday                 434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Sunday                   602 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.31 % 
-Markdown                 1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Other                    1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-
-🔥 Editors: 
-Claude Code              5 hrs 28 mins       ██████████████████████░░░   88.18 % 
-VS Code                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-
-🐱‍💻 Projects: 
-autonomous-infra-labs    6 hrs 7 mins        █████████████████████████   98.55 % 
-crypticani               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-
-💻 Operating System: 
-Linux                    6 hrs 13 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 45 mins (92.69%)
-
-✍️ 2,655 lines written by AI, 1 lines written by hand (99.96% AI-written)
-
-🔤 1,949,912 Input Tokens, 254,847 Output Tokens
-
-💵 $26.19 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 72 AI Prompts
-
-Opus                     1,583 lines         ███████████████░░░░░░░░░░   58.78 % 
-Sonnet                   1,110 lines         ██████████░░░░░░░░░░░░░░░   41.22 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,294 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -333,7 +264,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:06:48 UTC
+ Last Updated on 19/08/2026 19:01:39 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

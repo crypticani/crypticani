@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-588%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-43%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -243,7 +243,7 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 438 Contributions in the Year 2026
+> 🏆 445 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -251,20 +251,91 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1654 commits        ██████████░░░░░░░░░░░░░░░   40.13 % 
+🌆 Daytime                824 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌃 Evening                1623 commits        ██████████░░░░░░░░░░░░░░░   39.37 % 
+🌙 Night                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   727 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Tuesday                  493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Wednesday                740 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Thursday                 662 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Friday                   464 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Saturday                 434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   602 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 8 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
+Python                   7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Other                    3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Git Config               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+
+🔥 Editors: 
+Claude Code              20 hrs 20 mins      ████████████████████████░   94.11 % 
+VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+
+🐱‍💻 Projects: 
+autonomous-infra-labs    19 hrs 5 mins       ██████████████████████░░░   88.28 % 
+dev-setup                1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+crypticani               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+crypticani.github.io     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+💻 Operating System: 
+Linux                    21 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 21 hrs 10 mins (97.9%)
+
+✍️ 9,368 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 5,982,146 Input Tokens, 949,960 Output Tokens
+
+💵 $98.36 Estimated AI Cost This Week
+
+🧠 47 AI Sessions, 252 AI Prompts
+
+Opus                     6,068 lines         ████████████████░░░░░░░░░   63.87 % 
+Sonnet                   3,433 lines         █████████░░░░░░░░░░░░░░░░   36.13 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 3,028 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   30.23 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 19/08/2026 19:01:39 UTC
+ Last Updated on 20/08/2026 19:21:29 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

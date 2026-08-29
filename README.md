@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -278,48 +278,47 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-TypeScript               7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Python                   6 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Other                    2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-YAML                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Markdown                 7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+TypeScript               6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Python                   6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Other                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+YAML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 21 mins      ████████████████░░░░░░░░░   63.51 % 
-VS Code                  11 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+Claude Code              19 hrs 9 mins       ████████████████░░░░░░░░░   64.80 % 
+VS Code                  10 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   35.20 % 
 
 🐱‍💻 Projects: 
-autonomous-infra-labs    21 hrs 7 mins       █████████████████░░░░░░░░   69.25 % 
-railway-iac              8 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-dev-setup                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-the-devops-handbook      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+autonomous-infra-labs    21 hrs              ██████████████████░░░░░░░   71.05 % 
+railway-iac              8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+dev-setup                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+the-devops-handbook      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    30 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 24 mins (70.22%)
+⏱ AI Coding Time: 20 hrs 49 mins (70.43%)
 
-✍️ 12,012 lines written by AI, 4,474 lines written by hand (72.86% AI-written)
+✍️ 11,713 lines written by AI, 4,506 lines written by hand (72.22% AI-written)
 
-🔤 6,044,937 Input Tokens, 961,364 Output Tokens
+🔤 6,331,921 Input Tokens, 960,571 Output Tokens
 
-💵 $198.33 Estimated AI Cost This Week
+💵 $211.51 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 211 AI Prompts
+🧠 36 AI Sessions, 208 AI Prompts
 
-Opus                     12,577 lines        █████████████████████████   100.00 % 
+Opus                     10,893 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.86% of written lines came from AI
-📚 Verbose Prompter — average 7,111 characters per prompt
+🤖 AI-Driven — 72.22% of written lines came from AI
+📚 Verbose Prompter — average 7,112 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 56.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 57.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -335,7 +334,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:26:28 UTC
+ Last Updated on 29/08/2026 02:00:21 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

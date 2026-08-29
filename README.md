@@ -278,47 +278,46 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-TypeScript               6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Python                   6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Other                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-YAML                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Markdown                 6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Python                   6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+TypeScript               4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 9 mins       ████████████████░░░░░░░░░   64.80 % 
-VS Code                  10 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   35.20 % 
+Claude Code              17 hrs 27 mins      █████████████████░░░░░░░░   67.77 % 
+VS Code                  8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
 
 🐱‍💻 Projects: 
-autonomous-infra-labs    21 hrs              ██████████████████░░░░░░░   71.05 % 
-railway-iac              8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-dev-setup                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-the-devops-handbook      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+autonomous-infra-labs    19 hrs 32 mins      ███████████████████░░░░░░   75.84 % 
+railway-iac              6 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+the-devops-handbook      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Linux                    29 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 49 mins (70.43%)
+⏱ AI Coding Time: 19 hrs 2 mins (73.91%)
 
-✍️ 11,713 lines written by AI, 4,506 lines written by hand (72.22% AI-written)
+✍️ 11,023 lines written by AI, 4,459 lines written by hand (71.2% AI-written)
 
-🔤 6,331,921 Input Tokens, 960,571 Output Tokens
+🔤 5,835,806 Input Tokens, 856,544 Output Tokens
 
-💵 $211.51 Estimated AI Cost This Week
+💵 $198.72 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 208 AI Prompts
+🧠 33 AI Sessions, 184 AI Prompts
 
-Opus                     10,893 lines        █████████████████████████   100.00 % 
+Opus                     10,185 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.22% of written lines came from AI
-📚 Verbose Prompter — average 7,112 characters per prompt
+🤖 AI-Driven — 71.2% of written lines came from AI
+📚 Verbose Prompter — average 7,940 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 57.12% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 51.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -334,7 +333,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 02:00:21 UTC
+ Last Updated on 29/08/2026 21:14:59 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

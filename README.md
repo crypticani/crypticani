@@ -251,75 +251,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1694 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
-🌆 Daytime                828 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-🌃 Evening                1671 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   741 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Tuesday                  503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                774 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Thursday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Friday                   469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-Python                   6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-TypeScript               4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-
-🔥 Editors: 
-Claude Code              17 hrs 27 mins      █████████████████░░░░░░░░   67.77 % 
-VS Code                  8 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
-
-🐱‍💻 Projects: 
-autonomous-infra-labs    19 hrs 32 mins      ███████████████████░░░░░░   75.84 % 
-railway-iac              6 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-the-devops-handbook      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-
-💻 Operating System: 
-Linux                    25 hrs 45 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 19 hrs 2 mins (73.91%)
-
-✍️ 11,023 lines written by AI, 4,459 lines written by hand (71.2% AI-written)
-
-🔤 5,835,806 Input Tokens, 856,544 Output Tokens
-
-💵 $198.72 Estimated AI Cost This Week
-
-🧠 33 AI Sessions, 184 AI Prompts
-
-Opus                     10,185 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 71.2% of written lines came from AI
-📚 Verbose Prompter — average 7,940 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 51.44% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -333,7 +264,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:14:59 UTC
+ Last Updated on 30/08/2026 21:28:30 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

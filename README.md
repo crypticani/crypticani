@@ -233,7 +233,7 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-66%20hrs%205%20mins-blue?style=flat)
 
@@ -243,95 +243,28 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 486 Contributions in the Year 2026
+> 🏆 488 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 44 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1694 commits        ██████████░░░░░░░░░░░░░░░   40.15 % 
-🌆 Daytime                828 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-🌃 Evening                1675 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
-🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   742 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Tuesday                  503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Wednesday                776 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-Thursday                 677 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Friday                   469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ██████████████░░░░░░░░░░░   57.57 % 
-Markdown                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 12 mins       ███████████████████░░░░░░   74.57 % 
-Claude Code              1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-
-🐱‍💻 Projects: 
-railway-iac              3 hrs 5 mins        ██████████████████░░░░░░░   71.87 % 
-autonomous-infra-labs    1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-
-💻 Operating System: 
-Linux                    4 hrs 18 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 11 mins (27.65%)
-
-✍️ 403 lines written by AI, 517 lines written by hand (43.8% AI-written)
-
-🔤 719,959 Input Tokens, 58,642 Output Tokens
-
-💵 $25.95 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 20 AI Prompts
-
-Opus                     407 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 43.8% of written lines came from AI
-📝 Concise Prompter — average 226 characters per prompt
-🔁 Iterative Prompter — average 20 prompts per session
-🔍 Hands-On Reviewer — 95.13% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Python                   13 repos            ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 03/09/2026 21:24:48 UTC
+ Last Updated on 04/09/2026 21:07:08 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

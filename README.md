@@ -251,6 +251,55 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌆 Daytime                828 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+🌃 Evening                1675 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   742 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Tuesday                  503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Wednesday                776 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Thursday                 677 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Friday                   470 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               3 hrs 6 mins        ███████████████████░░░░░░   77.75 % 
+JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🔥 Editors: 
+VS Code                  4 hrs               █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+railway-iac              4 hrs               █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    4 hrs               █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -264,7 +313,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 21:07:08 UTC
+ Last Updated on 05/09/2026 20:44:51 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

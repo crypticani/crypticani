@@ -237,7 +237,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -254,18 +254,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   40.03 % 
-🌆 Daytime                833 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-🌃 Evening                1684 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
+🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   40.01 % 
+🌆 Daytime                834 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+🌃 Evening                1685 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
 🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Tuesday                  505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                781 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Thursday                 679 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Monday                   744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Wednesday                781 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Thursday                 679 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 Friday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
@@ -278,34 +278,34 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ███████████████░░░░░░░░░░   58.31 % 
-Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               5 hrs 6 mins        ███████████████░░░░░░░░░░   60.42 % 
+Markdown                 1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.74 % 
-Cursor                   3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-Agent                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Cursor                   3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
+VS Code                  3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   43.84 % 
+Agent                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 
 🐱‍💻 Projects: 
-railway-iac              8 hrs 52 mins       ████████████████████████░   97.76 % 
-nvm                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-terminals                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-using-superpowers        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+railway-iac              8 hrs 14 mins       ████████████████████████░   97.59 % 
+nvm                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+terminals                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+using-superpowers        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    9 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 26 mins (70.96%)
+⏱ AI Coding Time: 6 hrs 26 mins (76.25%)
 
-✍️ 4,103 lines written by AI, 169 lines written by hand (96.04% AI-written)
+✍️ 4,103 lines written by AI, 52 lines written by hand (98.75% AI-written)
 
 🔤 106,572 Input Tokens, 106,572 Output Tokens
 
@@ -317,10 +317,10 @@ Grok                     4,156 lines         ███████████�
 Cursor                   1,807 lines         ████████░░░░░░░░░░░░░░░░░   30.30 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.04% of written lines came from AI
+🤖 AI-Driven — 98.75% of written lines came from AI
 📚 Verbose Prompter — average 4,468 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 19.12% of changed lines were hand-edited
+🚀 High AI Trust — 17.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -336,7 +336,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 22:08:27 UTC
+ Last Updated on 15/09/2026 21:45:42 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

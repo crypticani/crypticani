@@ -243,7 +243,7 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 489 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -254,9 +254,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   40.01 % 
-🌆 Daytime                834 commits         █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-🌃 Evening                1685 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
+🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌆 Daytime                835 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+🌃 Evening                1685 commits        ██████████░░░░░░░░░░░░░░░   39.77 % 
 🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -264,11 +264,11 @@
 ```text
 Monday                   744 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 Tuesday                  507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Wednesday                781 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Thursday                 679 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Friday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Wednesday                781 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Thursday                 680 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Friday                   473 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 ```
 
 
@@ -278,49 +278,49 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 50 mins       █████████████░░░░░░░░░░░░   50.48 % 
-Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TypeScript               3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.34 % 
+Markdown                 1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 38 mins       ████████████░░░░░░░░░░░░░   48.55 % 
-VS Code                  3 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.06 % 
-Agent                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Cursor                   4 hrs 4 mins        █████████████░░░░░░░░░░░░   52.22 % 
+VS Code                  2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
+Agent                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🐱‍💻 Projects: 
-railway-iac              9 hrs 5 mins        ████████████████████████░   94.88 % 
-terminals                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-nvm                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-agent-tools              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+railway-iac              7 hrs 19 mins       ███████████████████████░░   93.80 % 
+terminals                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+nvm                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+agent-tools              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    9 hrs 34 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 44 mins (80.87%)
+⏱ AI Coding Time: 6 hrs 54 mins (88.43%)
 
-✍️ 4,178 lines written by AI, 78 lines written by hand (98.17% AI-written)
+✍️ 3,602 lines written by AI, 41 lines written by hand (98.87% AI-written)
 
 🔤 91,428 Input Tokens, 91,428 Output Tokens
 
 💵 $0.61 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 145 AI Prompts
+🧠 37 AI Sessions, 131 AI Prompts
 
-Grok                     3,760 lines         █████████████████░░░░░░░░   67.54 % 
-Cursor                   1,807 lines         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+Cursor                   1,807 lines         █████████████░░░░░░░░░░░░   52.48 % 
+Grok                     1,636 lines         ████████████░░░░░░░░░░░░░   47.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.17% of written lines came from AI
-📚 Verbose Prompter — average 3,185 characters per prompt
+🤖 AI-Driven — 98.87% of written lines came from AI
+📚 Verbose Prompter — average 3,491 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 18.22% of changed lines were hand-edited
+🚀 High AI Trust — 3.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -336,7 +336,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:41:35 UTC
+ Last Updated on 17/09/2026 21:45:43 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

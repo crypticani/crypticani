@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -278,49 +278,49 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.78 % 
-JSON                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Bash                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+TypeScript               3 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.69 % 
+Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Git Config               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 42 mins       ███████████████░░░░░░░░░░   59.15 % 
-VS Code                  2 hrs               ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Agent                    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+VS Code                  3 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.86 % 
+Cursor                   3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.43 % 
+Agent                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 🐱‍💻 Projects: 
-railway-iac              5 hrs 45 mins       ███████████████████████░░   91.96 % 
-terminals                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-nvm                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-mypeople-transpiler      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-agent-tools              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+railway-iac              7 hrs 5 mins        █████████████████████░░░░   85.75 % 
+mypeople-transpiler      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+terminals                25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+agent-tools              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+verification-before-compl0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 12 mins (83.13%)
+⏱ AI Coding Time: 7 hrs 10 mins (86.71%)
 
-✍️ 690 lines written by AI, 107 lines written by hand (86.57% AI-written)
+✍️ 2,918 lines written by AI, 97 lines written by hand (96.78% AI-written)
 
-🔤 67,016 Input Tokens, 67,016 Output Tokens
+🔤 1,989 Input Tokens, 1,989 Output Tokens
 
-💵 $0.41 Estimated AI Cost This Week
+💵 $0.01 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 96 AI Prompts
+🧠 12 AI Sessions, 80 AI Prompts
 
-Grok                     478 lines           █████████████████████████   100.00 % 
-Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   2,411 lines         ███████████████████████░░   90.64 % 
+Grok                     249 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.57% of written lines came from AI
-📚 Verbose Prompter — average 3,213 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 21.74% of changed lines were hand-edited
+🤖 AI-Driven — 96.78% of written lines came from AI
+📄 Detailed Prompter — average 941 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 4.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -336,7 +336,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:16:20 UTC
+ Last Updated on 19/09/2026 21:04:36 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

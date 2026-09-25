@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -278,48 +278,48 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 21 mins       ██████████████░░░░░░░░░░░   56.65 % 
-Markdown                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-JSON                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               7 hrs 58 mins       ███████████████░░░░░░░░░░   59.73 % 
+Markdown                 3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.76 % 
-Agent                    4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
-Cursor                   2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+VS Code                  6 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.93 % 
+Agent                    5 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
+Cursor                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 
 🐱‍💻 Projects: 
-railway-iac              11 hrs 34 mins      ██████████████████████░░░   89.14 % 
-mypeople-transpiler      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-terminals                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-brainstorming            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+railway-iac              11 hrs 59 mins      ██████████████████████░░░   89.90 % 
+mypeople-transpiler      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+terminals                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+brainstorming            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 verification-before-compl0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    12 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (73.3%)
+⏱ AI Coding Time: 10 hrs (75.04%)
 
-✍️ 2,657 lines written by AI, 124 lines written by hand (95.54% AI-written)
+✍️ 2,549 lines written by AI, 56 lines written by hand (97.85% AI-written)
 
 🔤 1,470 Input Tokens, 1,470 Output Tokens
 
 💵 $0.01 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 45 AI Prompts
+🧠 12 AI Sessions, 34 AI Prompts
 
 Cursor                   2,411 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.54% of written lines came from AI
-📚 Verbose Prompter — average 1,516 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 8.19% of changed lines were hand-edited
+🤖 AI-Driven — 97.85% of written lines came from AI
+📚 Verbose Prompter — average 1,683 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -335,7 +335,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:52:43 UTC
+ Last Updated on 25/09/2026 21:57:08 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -254,20 +254,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
-🌆 Daytime                841 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-🌃 Evening                1693 commits        ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
+🌆 Daytime                841 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌃 Evening                1695 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
 🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Monday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 Tuesday                  512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 Wednesday                783 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Thursday                 684 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 ```
 
@@ -278,27 +278,30 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 51 mins       ██████████████░░░░░░░░░░░   57.05 % 
-Markdown                 2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-JSON                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               5 hrs 17 mins       ████████████████░░░░░░░░░   65.90 % 
+Markdown                 1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       █████████████░░░░░░░░░░░░   53.76 % 
-Agent                    3 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+VS Code                  3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.37 % 
+Agent                    3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
+Bot                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 
 🐱‍💻 Projects: 
-railway-iac              7 hrs 32 mins       ██████████████████████░░░   88.47 % 
-mypeople-transpiler      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+railway-iac              7 hrs 32 mins       ███████████████████████░░   93.95 % 
+mypeople-transpiler      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Personal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    8 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (50.24%)
+⏱ AI Coding Time: 4 hrs 31 mins (56.36%)
 
 ✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
 
@@ -306,12 +309,12 @@ Linux                    8 hrs 31 mins       ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 3 AI Prompts
+🧠 15 AI Sessions, 11 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,091 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+📝 Concise Prompter — average 346 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -328,7 +331,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:28:52 UTC
+ Last Updated on 01/10/2026 22:50:58 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

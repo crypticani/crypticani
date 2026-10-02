@@ -233,9 +233,9 @@
 <h2 align="center">⚡ Waka Metrics ⚡</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-658%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -278,42 +278,42 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ████████████████░░░░░░░░░   65.90 % 
-Markdown                 1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               5 hrs 27 mins       ████████████████░░░░░░░░░   65.52 % 
+Markdown                 1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.37 % 
-Agent                    3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.14 % 
-Bot                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+VS Code                  3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
+Agent                    3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
+Bot                      1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 
 🐱‍💻 Projects: 
-railway-iac              7 hrs 32 mins       ███████████████████████░░   93.95 % 
-mypeople-transpiler      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Personal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+railway-iac              7 hrs 50 mins       ████████████████████████░   94.17 % 
+mypeople-transpiler      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Personal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Linux                    8 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (56.36%)
+⏱ AI Coding Time: 4 hrs 52 mins (58.61%)
 
-✍️ 0 lines written by AI, 7 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 11 AI Prompts
+🧠 17 AI Sessions, 18 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 346 characters per prompt
+📝 Concise Prompter — average 242 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -331,7 +331,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:50:58 UTC
+ Last Updated on 02/10/2026 22:26:02 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

@@ -243,7 +243,7 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 492 Contributions in the Year 2026
+> 🏆 493 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -251,73 +251,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
-🌆 Daytime                841 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-🌃 Evening                1695 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Wednesday                783 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Saturday                 446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               5 hrs 27 mins       ████████████████░░░░░░░░░   65.52 % 
-Markdown                 1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
-Agent                    3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.13 % 
-Bot                      1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-
-🐱‍💻 Projects: 
-railway-iac              7 hrs 50 mins       ████████████████████████░   94.17 % 
-mypeople-transpiler      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Personal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-💻 Operating System: 
-Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 52 mins (58.61%)
-
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 18 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -331,7 +264,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:26:02 UTC
+ Last Updated on 03/10/2026 21:37:10 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

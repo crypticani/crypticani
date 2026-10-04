@@ -251,6 +251,72 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1695 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 
+🌆 Daytime                841 commits         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+🌃 Evening                1696 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   747 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Tuesday                  512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Wednesday                783 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Thursday                 686 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Friday                   474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Sunday                   606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               5 hrs 25 mins       █████████████████░░░░░░░░   68.08 % 
+Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+
+🔥 Editors: 
+Agent                    3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+VS Code                  2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
+Bot                      1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+
+🐱‍💻 Projects: 
+railway-iac              7 hrs 55 mins       █████████████████████████   99.66 % 
+Personal                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+
+💻 Operating System: 
+Linux                    7 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 11 mins (65.32%)
+
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 19 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 77 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -264,7 +330,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:37:10 UTC
+ Last Updated on 04/10/2026 21:44:58 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

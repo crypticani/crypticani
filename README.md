@@ -278,42 +278,42 @@ Sunday                   606 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.29 % 
-Markdown                 7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.06 % 
-Other                    3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               9 hrs 21 mins       █████████████░░░░░░░░░░░░   51.58 % 
+Markdown                 5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.17 % 
+Other                    3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Agent                    10 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.94 % 
-Bot                      5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-VS Code                  5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Agent                    9 hrs 53 mins       ██████████████░░░░░░░░░░░   54.52 % 
+VS Code                  4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Bot                      4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 
 🐱‍💻 Projects: 
-railway-iac              20 hrs 33 mins      ████████████████████████░   97.93 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+railway-iac              18 hrs              █████████████████████████   99.32 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    20 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 2 mins (81.24%)
+⏱ AI Coding Time: 15 hrs 12 mins (83.9%)
 
-✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 13 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 41 AI Prompts
+🧠 20 AI Sessions, 24 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 100 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 119 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -330,7 +330,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 01:08:01 UTC
+ Last Updated on 13/10/2026 23:14:31 UTC
 <!--END_SECTION:waka-->
 
 ## How to reach me via social media

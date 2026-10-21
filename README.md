@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://crypticani.dev">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=FE8019&center=true&vCenter=true&width=780&lines=crypticani%40fedora%3A~%24%20cat%20/etc/fedora-release;%3E%20Fedora%20Linux%20Workstation%20%28GNOME%29%20%E2%80%94%20I%20use%20Fedora%20btw;crypticani%40fedora%3A~%24%20sudo%20hire-me;%3E%20Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer;%3E%20Railway%20%C2%B7%20Cloudflare%20%C2%B7%20Tailscale%20%C2%B7%20AWS%20%C2%B7%20DigitalOcean%20%C2%B7%20OCI%20%C2%B7%20K8s;crypticani%40fedora%3A~%24%20tailscale%20status;%3E%20100.64.0.42%20fedora-workstation%20%5Btailnet%20active%5D;crypticani%40fedora%3A~%24%20echo%20%24SHELL%20%24TERM_PROGRAM;%3E%20/bin/zsh%20%28VS%20Code%20%26%20Ptyxis%20on%20GNOME%29;crypticani%40fedora%3A~%24%20curl%20-sL%20https%3A//crypticani.dev;%3E%20Interactive%20Web%20CLI%20terminal%20at%20crypticani.dev" alt="typing terminal prompt" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=FE8019&center=true&vCenter=true&width=780&lines=crypticani%40fedora%3A~%24%20cat%20/etc/fedora-release;%3E%20Fedora%20Linux%20Workstation%20%28GNOME%29%20%E2%80%94%20I%20use%20Fedora%20btw;crypticani%40fedora%3A~%24%20sudo%20hire-me;%3E%20Senior%20DevOps%20%26%20Cloud%20Infrastructure%20Engineer;%3E%20AWS%20%C2%B7%20Railway%20%C2%B7%20DigitalOcean%20%C2%B7%20OCI%20%C2%B7%20Cloudflare%20%C2%B7%20Tailscale%20%C2%B7%20K8s;crypticani%40fedora%3A~%24%20tailscale%20status;%3E%20100.64.0.42%20fedora-workstation%20%5Btailnet%20active%5D;crypticani%40fedora%3A~%24%20echo%20%24SHELL%20%24TERM_PROGRAM;%3E%20/bin/zsh%20%28VS%20Code%20%26%20Ptyxis%20on%20GNOME%29;crypticani%40fedora%3A~%24%20ollama%20list;%3E%20llama3%20%C2%B7%20deepseek-coder%20%C2%B7%20mistral%20%5Blocal%20AI%20models%20active%5D;crypticani%40fedora%3A~%24%20curl%20-sL%20https%3A//crypticani.dev;%3E%20Interactive%20Web%20CLI%20terminal%20at%20crypticani.dev" alt="typing terminal prompt" />
   </a>
 </p>
 
@@ -19,6 +19,7 @@
   <a href="https://crypticani.dev"><img src="https://img.shields.io/badge/Terminal-Ptyxis%20%2F%20GNOME-4A90E2?style=flat-square&logo=gnometerminal&logoColor=white&labelColor=282828" alt="Terminal" /></a>
   <a href="https://crypticani.dev"><img src="https://img.shields.io/badge/Shell-zsh-4EAA25?style=flat-square&logo=zsh&logoColor=white&labelColor=282828" alt="Shell zsh" /></a>
   <a href="https://crypticani.dev"><img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=282828" alt="Editor VS Code" /></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=282828" alt="AWS" /></a>
   <a href="https://railway.app"><img src="https://img.shields.io/badge/Platform-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white&labelColor=282828" alt="Railway" /></a>
   <a href="https://cloudflare.com"><img src="https://img.shields.io/badge/Edge-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=282828" alt="Cloudflare" /></a>
   <a href="https://tailscale.com"><img src="https://img.shields.io/badge/Mesh-Tailscale-282828?style=flat-square&logo=tailscale&logoColor=white&labelColor=282828" alt="Tailscale" /></a>
@@ -33,13 +34,13 @@
           /     \             ---------------------
          | () () |            OS: Fedora Linux x86_64 [Workstation]
           \  -  /             Role: Senior DevOps & Cloud Infrastructure Engineer
-         / `---' \            Cloud: Railway · AWS · DigitalOcean · Oracle Cloud · K8s
+         / `---' \            Cloud: AWS · Railway · DigitalOcean · Oracle Cloud · K8s
         / /     \ \           Network / Edge: Cloudflare (Edge/WAF) · Tailscale (Mesh VPN)
        ( |       | )          DE / WM: GNOME (Wayland)
       / \ \_   _/ / \         Terminal: GNOME Terminal / Ptyxis
      (_// `-----' \_\)        Shell: zsh
       __//     \\__           Editor: VS Code
-     (___)     (___)          Packages: dnf, rpm, k8s, docker, terraform, ansible, helm
+     (___)     (___)          Packages: dnf, rpm, k8s, docker, terraform, ansible, ollama
                               Systemd: active (running) — 99.9% SLA across 15+ apps
                               FinOps: -25% monthly cloud spend reduced (torvix)
                               Disaster Recovery: < 30 min RTO verified in failover drills
@@ -66,11 +67,11 @@
              ├─ [  OK  ] 99.9% High Availability SLA maintained across 15+ production applications
              ├─ [  OK  ] Mesh VPN: Tailscale zero-trust private mesh connected across all nodes
              ├─ [  OK  ] Edge & Security: Cloudflare WAF, Zero Trust, and DNS routing
-             ├─ [  OK  ] Multi-Cloud: Railway, AWS, DigitalOcean, and Oracle Cloud (OCI)
+             ├─ [  OK  ] Multi-Cloud: AWS, Railway, DigitalOcean, and Oracle Cloud (OCI)
              ├─ [  OK  ] Disaster Recovery: < 30 min RTO verified across multi-region failovers
              ├─ [  OK  ] FinOps: 25% cloud spend cut across Kubernetes and cloud workloads
              ├─ [  OK  ] Automation: GitOps and CI/CD pipelines with zero-downtime rollouts
-             └─ [  OK  ] AI-Ops: Autonomous self-healing infrastructure in autonomous-infra-labs
+             └─ [  OK  ] AI-Ops: Autonomous self-healing infrastructure in autonomous-infra-labs (Ollama)
 ```
 
 <table align="center">
@@ -111,9 +112,9 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/crypticani/autonomous-infra-labs"><h3><code>autonomous-infra-labs</code></h3></a>
-      <b>AI-native DevOps research</b> — self-healing infrastructure, RAG-based ops copilots, and AI-assisted security triage on K8s/Docker/Prometheus.
+      <b>AI-native DevOps research</b> — self-healing infrastructure, RAG-based ops copilots with Ollama local LLMs, and AI-assisted security triage on K8s/Docker/Prometheus.
       <br><br>
-      <code>AI-Ops</code> <code>RAG</code> <code>Self-Healing</code> <code>Prometheus</code>
+      <code>AI-Ops</code> <code>Ollama</code> <code>RAG</code> <code>Self-Healing</code> <code>Prometheus</code>
       <br><br>
       <a href="https://github.com/crypticani/autonomous-infra-labs"><img src="https://img.shields.io/github/stars/crypticani/autonomous-infra-labs?style=flat-square&labelColor=282828&color=fe8019" alt="stars"></a>
       <a href="https://github.com/crypticani/autonomous-infra-labs"><img src="https://img.shields.io/github/forks/crypticani/autonomous-infra-labs?style=flat-square&labelColor=282828&color=fe8019" alt="forks"></a>
@@ -153,13 +154,14 @@
 
 ## ⚡ `$ dnf list --installed | grep -E "infra|network|cloud"`
 
-> Core packages, daemons, mesh networking, and toolchain installed on Fedora.
+> Core packages, daemons, mesh networking, local AI runtimes, and toolchain installed on Fedora.
 
 <table>
   <tr>
     <td width="26%"><b>🐧 Distros & Desktop</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="36" height="36" alt="Fedora (Primary OS)" title="Fedora (Primary OS)" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/manjaro/manjaro-original.svg" width="36" height="36" alt="Manjaro Linux" title="Manjaro Linux" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="36" height="36" alt="Red Hat / RHEL" title="Red Hat / RHEL" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux Kernel" title="Linux Kernel" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="36" height="36" alt="Debian" title="Debian" />&nbsp;&nbsp;
@@ -170,8 +172,8 @@
   <tr>
     <td width="26%"><b>☁️ Cloud Platforms</b></td>
     <td>
-      <a href="https://railway.app"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white&labelColor=282828" alt="Railway" height="28" /></a>&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" title="AWS" />&nbsp;&nbsp;
+      <a href="https://railway.app"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white&labelColor=282828" alt="Railway" height="28" /></a>&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="36" height="36" alt="DigitalOcean" title="DigitalOcean" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle Cloud (OCI)" title="Oracle Cloud (OCI)" />
     </td>
@@ -188,8 +190,7 @@
     <td width="26%"><b>☸️ Containers & K8s</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="36" height="36" alt="Helm" title="Helm" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
     </td>
   </tr>
   <tr>
@@ -210,10 +211,11 @@
     </td>
   </tr>
   <tr>
-    <td width="26%"><b>💻 Languages & Toolchain</b></td>
+    <td width="26%"><b>💻 Toolchain & Local AI</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" title="Python" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go" title="Go" />&nbsp;&nbsp;
+      <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-Local_LLMs-FFFFFF?style=flat-square&logo=ollama&logoColor=black&labelColor=282828" alt="Ollama" height="28" /></a>&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" title="Bash" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />&nbsp;&nbsp;
@@ -224,6 +226,7 @@
     <td width="26%"><b>🗄️ Storage & Databases</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" title="MongoDB" />
     </td>
   </tr>
@@ -375,19 +378,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 ---
 
-## 📡 `$ netstat -tulnp | grep -E "ESTABLISHED|LISTEN"`
-
-```text
-Proto      Recv-Q Send-Q Local Address           Foreign Address         State       Service
-tailscale0      0      0 100.64.0.42:22          0.0.0.0:*               LISTEN      Tailscale SSH (Fedora Workstation)
-tcp             0      0 railway.app:443         0.0.0.0:*               LISTEN      Railway PaaS Workloads
-tcp             0      0 cloudflare:443          0.0.0.0:*               LISTEN      Cloudflare Zero Trust & WAF
-tcp             0      0 crypticani.dev:80       0.0.0.0:*               LISTEN      Interactive Web Terminal
-tcp             0      0 blog.crypticani.dev:443 0.0.0.0:*               LISTEN      Technical Articles / Handbooks
-tcp             0      0 protonmail.ch:25        crypticani@proton...    ESTABLISHED Direct Email
-tcp             0      0 linkedin.com:443        in/crypticani           ESTABLISHED Professional Network
-tcp             0      0 x.com:443               @crypticani             ESTABLISHED Tech Discourse & Updates
-```
+## 🌐 Connect
 
 <p align="center">
   <a href="https://crypticani.dev"><img src="https://img.shields.io/badge/Web_Terminal-crypticani.dev-fe8019?style=flat-square&logo=gnubash&logoColor=white&labelColor=282828" alt="Web Terminal"></a>
@@ -402,7 +393,6 @@ tcp             0      0 x.com:443               @crypticani             ESTABLI
 </p>
 
 ```bash
-crypticani@fedora:~$ tailscale status --peers
 crypticani@fedora:~$ sudo hire-me --email crypticani@protonmail.com
 [Process completed - Interactive terminal live at https://crypticani.dev]
 ```

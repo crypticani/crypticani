@@ -282,7 +282,7 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 503 Contributions in the Year 2026
+> 🏆 505 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -293,21 +293,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1700 commits        ██████████░░░░░░░░░░░░░░░   38.57 % 
-🌆 Daytime                914 commits         █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌃 Evening                1770 commits        ██████████░░░░░░░░░░░░░░░   40.16 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+🌞 Morning                1699 commits        ██████████░░░░░░░░░░░░░░░   38.80 % 
+🌆 Daytime                899 commits         █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+🌃 Evening                1758 commits        ██████████░░░░░░░░░░░░░░░   40.15 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   782 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Tuesday                  530 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Wednesday                799 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Thursday                 738 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   502 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Tuesday                  526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                798 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Thursday                 725 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Friday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 ```
 
 
@@ -317,45 +317,45 @@ Sunday                   606 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
-Other                    5 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.97 % 
-JSON                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.63 % 
+Other                    3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 8 mins       ███████████████████████░░   93.23 % 
-Cursor                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+VS Code                  10 hrs 10 mins      ███████████████████████░░   91.53 % 
+Cursor                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Antigravity Desktop      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🐱‍💻 Projects: 
-railway-iac              11 hrs 13 mins      ████████████████████░░░░░   79.65 % 
-hr-cdn                   1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-house-planner            59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+railway-iac              8 hrs 14 mins       ███████████████████░░░░░░   74.20 % 
+hr-cdn                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+house-planner            59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 💻 Operating System: 
-Linux                    14 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 23 mins (87.88%)
+⏱ AI Coding Time: 9 hrs 28 mins (85.22%)
 
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
 🔤 461 Input Tokens, 239 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 82 AI Prompts
+🧠 16 AI Sessions, 72 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 259 characters per prompt
+📝 Concise Prompter — average 280 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -373,7 +373,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 23:09:23 UTC
+ Last Updated on 30/10/2026 22:48:02 UTC
 <!--END_SECTION:waka-->
 
 ---

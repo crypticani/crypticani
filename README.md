@@ -272,9 +272,9 @@
 ## ⏱️ `$ wakatime --stats --today`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-707%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-138%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -317,31 +317,31 @@ Sunday                   606 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 10 mins       ███████████████░░░░░░░░░░   60.58 % 
-Other                    1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               5 hrs 8 mins        ██████████████░░░░░░░░░░░   55.09 % 
+Markdown                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+JSON                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Other                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       ███████████████████████░░   90.02 % 
-Cursor                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Antigravity Desktop      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VS Code                  8 hrs 29 mins       ███████████████████████░░   91.00 % 
+Cursor                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Antigravity Desktop      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 🐱‍💻 Projects: 
-railway-iac              9 hrs 7 mins        ██████████████████████░░░   89.49 % 
-house-planner            53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-mypeople-transpiler      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+railway-iac              7 hrs 2 mins        ███████████████████░░░░░░   75.54 % 
+mypeople-transpiler      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+house-planner            53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 💻 Operating System: 
-Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 11 mins (80.29%)
+⏱ AI Coding Time: 7 hrs 6 mins (76.17%)
 
 ✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
 
@@ -349,14 +349,14 @@ Linux                    10 hrs 11 mins      ███████████�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 26 AI Prompts
+🧠 18 AI Sessions, 27 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 88 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -373,7 +373,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 23:37:57 UTC
+ Last Updated on 07/11/2026 22:24:15 UTC
 <!--END_SECTION:waka-->
 
 ---

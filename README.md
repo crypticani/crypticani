@@ -282,7 +282,7 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
-> 🏆 508 Contributions in the Year 2026
+> 🏆 511 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -293,21 +293,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1701 commits        █████████░░░░░░░░░░░░░░░░   37.92 % 
-🌆 Daytime                951 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-🌃 Evening                1811 commits        ██████████░░░░░░░░░░░░░░░   40.37 % 
+🌞 Morning                1703 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌆 Daytime                992 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+🌃 Evening                1835 commits        ██████████░░░░░░░░░░░░░░░   40.30 % 
 🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   790 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Tuesday                  546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Wednesday                810 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Thursday                 755 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Friday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Saturday                 450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Monday                   796 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Tuesday                  556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Wednesday                839 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Thursday                 763 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Saturday                 450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 ```
 
 
@@ -317,39 +317,38 @@ Sunday                   606 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 3 mins        ███████████████░░░░░░░░░░   58.28 % 
-Markdown                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Other                    47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+TypeScript               2 hrs 27 mins       ████████████████░░░░░░░░░   65.82 % 
+Markdown                 55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   99.98 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  3 hrs 43 mins       █████████████████████████   99.97 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-railway-iac              5 hrs 40 mins       ████████████████████░░░░░   81.57 % 
-mypeople-transpiler      1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+railway-iac              2 hrs 26 mins       ████████████████░░░░░░░░░   65.57 % 
+mypeople-transpiler      1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.43 % 
 
 💻 Operating System: 
-Linux                    6 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 43 mins (68.04%)
+⏱ AI Coding Time: 2 hrs 37 mins (70.32%)
 
-✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 17 AI Prompts
+🧠 10 AI Sessions, 13 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 86 characters per prompt
+📝 Concise Prompter — average 82 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -367,7 +366,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2026 23:55:30 UTC
+ Last Updated on 12/11/2026 01:11:51 UTC
 <!--END_SECTION:waka-->
 
 ---

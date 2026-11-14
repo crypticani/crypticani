@@ -290,6 +290,53 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1704 commits        █████████░░░░░░░░░░░░░░░░   36.80 % 
+🌆 Daytime                1044 commits        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+🌃 Evening                1860 commits        ██████████░░░░░░░░░░░░░░░   40.16 % 
+🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   802 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Wednesday                857 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Thursday                 785 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Friday                   565 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Saturday                 450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr 18 mins        ███████████████░░░░░░░░░░   61.54 % 
+YAML                     44 mins             █████████░░░░░░░░░░░░░░░░   34.76 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+railway-iac              2 hrs 7 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -303,7 +350,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 00:03:04 UTC
+ Last Updated on 14/11/2026 22:55:57 UTC
 <!--END_SECTION:waka-->
 
 ---

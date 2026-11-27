@@ -272,11 +272,11 @@
 ## ⏱️ `$ wakatime --stats --today`
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%2030%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -293,21 +293,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1707 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌆 Daytime                1435 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-🌃 Evening                2073 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+🌞 Morning                1707 commits        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌆 Daytime                1598 commits        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+🌃 Evening                2096 commits        ██████████░░░░░░░░░░░░░░░   38.66 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   860 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Tuesday                  674 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Wednesday                1032 commits        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Thursday                 931 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Friday                   682 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Monday                   902 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Tuesday                  688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Wednesday                1144 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+Thursday                 940 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Friday                   691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Saturday                 450 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Sunday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
 
@@ -317,19 +317,19 @@ Sunday                   606 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               36 mins             █████████████████████████   99.04 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+YAML                     22 mins             █████████████░░░░░░░░░░░░   51.27 % 
+TypeScript               20 mins             ████████████░░░░░░░░░░░░░   48.25 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-railway-iac              35 mins             ████████████████████████░   94.91 % 
-mypeople-transpiler      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+mypeople-transpiler      24 mins             ██████████████░░░░░░░░░░░   55.66 % 
+railway-iac              19 mins             ███████████░░░░░░░░░░░░░░   44.34 % 
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -351,7 +351,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 02:12:47 UTC
+ Last Updated on 27/11/2026 02:10:03 UTC
 <!--END_SECTION:waka-->
 
 ---
